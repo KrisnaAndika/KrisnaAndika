@@ -1,8 +1,10 @@
 ### 🔱 Top Owner RAAF Auction :
-- Ristian Naufal AS CEO and Founder
-- Afiz AS CO-Founder
-- Andika Krisna AS Operator
-- Faiqo Satria AS Coding Master and Development
+- Ristian Naufal AS CEO and Founder☑️
+- Afiz AS CO-Founder☑️
+- Andika Krisna AS Operator☑️
+- Faiqo Satria AS Coding Master and Development☑️
+![AUCTION LOGO2](https://user-images.githubusercontent.com/127395496/224732030-8605d640-ece0-45cd-ac26-ffd5bbaace0a.JPG)
+
 
 <!--
 **KrisnaAndika/KrisnaAndika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
