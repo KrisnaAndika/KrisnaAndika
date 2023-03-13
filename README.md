@@ -1,4 +1,4 @@
-![AUCTION LOGO2](https://user-images.githubusercontent.com/127395496/224732225-088eb557-9c57-42b7-88dd-5b1ed86789e1.JPG)
+## ![AUCTION LOGO2](https://user-images.githubusercontent.com/127395496/224732225-088eb557-9c57-42b7-88dd-5b1ed86789e1.JPG)
 
 
 ### 🔱 Top Owner RAAF Auction :
@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://user-images.githubusercontent.com/127395496/224725905-73b07f10-729e-44f1-98ae-149fe175d82e.png)
+###### ![image](https://user-images.githubusercontent.com/127395496/224725905-73b07f10-729e-44f1-98ae-149fe175d82e.png)
 
