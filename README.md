@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Flowchart_Kasir - BE5433795 - Andika Krisna](https://user-images.githubusercontent.com/127395496/225320816-015a02fa-3ee1-4349-8a86-34673158e62c.png)
 
